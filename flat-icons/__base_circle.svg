@@ -13,7 +13,7 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="__base_circle.svg">
   <defs
      id="defs4" />
@@ -30,10 +30,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1846"
-     inkscape:window-height="1053"
-     inkscape:window-x="65"
-     inkscape:window-y="-9"
+     inkscape:window-width="1474"
+     inkscape:window-height="841"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -49,6 +49,7 @@
             <dc:title>Vincenzo De Vivo</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:description>http://www.vincenzodevivo.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +66,7 @@
        sodipodi:cy="418.07648"
        sodipodi:rx="200"
        sodipodi:ry="200"
-       d="m 588.57144,418.07648 a 200,200 0 1 1 -400,0 200,200 0 1 1 400,0 z"
+       d="m 588.57144,418.07648 a 200,200 0 0 1 -200,200 200,200 0 0 1 -200,-200 200,200 0 0 1 200,-200 200,200 0 0 1 200,200 z"
        transform="matrix(1.25,0,0,1.25,-235.7143,279.76658)" />
   </g>
 </svg>

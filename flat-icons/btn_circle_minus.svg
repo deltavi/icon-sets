@@ -13,7 +13,7 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="remove.svg">
   <defs
      id="defs4" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="193.27755"
-     inkscape:cy="405.71429"
+     inkscape:cx="175.77755"
+     inkscape:cy="325.71429"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1846"
-     inkscape:window-height="1053"
-     inkscape:window-x="65"
-     inkscape:window-y="-9"
+     inkscape:window-width="1474"
+     inkscape:window-height="841"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,12 +43,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Vincenzo De Vivo</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:description>http://www.vincenzodevivo.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +62,7 @@
        id="g3761"
        transform="matrix(1.25,0,0,1.25,-235.7143,279.76658)">
       <path
-         d="m 588.57144,418.07648 c 0,110.45695 -89.54305,200 -200,200 -110.45695,0 -200,-89.54305 -200,-200 0,-110.45695 89.54305,-200 200,-200 110.45695,0 200,89.54305 200,200 z"
+         d="m 588.57144,418.07648 a 200,200 0 0 1 -200,200 200,200 0 0 1 -200,-200 200,200 0 0 1 200,-200 200,200 0 0 1 200,200 z"
          sodipodi:ry="200"
          sodipodi:rx="200"
          sodipodi:cy="418.07648"
