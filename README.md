@@ -1,1 +1,2 @@
-# icon-sets
+# Icon sets
+## Flat icons
