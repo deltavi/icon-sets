@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="btn_circle_minus.svg">
+   sodipodi:docname="btn_circle_recycle_bin.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="175.77755"
-     inkscape:cy="325.71429"
+     inkscape:cx="81"
+     inkscape:cy="257.92708"
      inkscape:document-units="px"
      inkscape:current-layer="g3761"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Vincenzo De Vivo</dc:title>
@@ -69,14 +69,28 @@
          sodipodi:cx="388.57144"
          id="path2985"
          style="fill:#0000ff;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <rect
-         y="382.36218"
-         x="240.00002"
-         height="71.428574"
-         width="297.14285"
-         id="rect3759"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+         sodipodi:type="arc"
+         transform="translate(-1.6503906e-6,0)" />
+      <g
+         id="g3031"
+         transform="translate(2.1237793e-5,-8.0000276)">
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-424.28571"
+           x="357.50507"
+           height="71.428574"
+           width="218.74286"
+           id="rect3001"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect3012"
+           width="57.942856"
+           height="71.428574"
+           x="275.90509"
+           y="-424.28571"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
     </g>
   </g>
 </svg>

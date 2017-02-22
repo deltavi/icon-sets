@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="btn_circle_minus.svg">
+   sodipodi:docname="btn_circle_ok.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="175.77755"
+     inkscape:zoom="0.1"
+     inkscape:cx="-84.22245"
      inkscape:cy="325.71429"
      inkscape:document-units="px"
      inkscape:current-layer="g3761"
@@ -68,15 +68,28 @@
          sodipodi:cy="418.07648"
          sodipodi:cx="388.57144"
          id="path2985"
-         style="fill:#0000ff;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <rect
-         y="382.36218"
-         x="240.00002"
-         height="71.428574"
-         width="297.14285"
-         id="rect3759"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="fill:#00c200;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-1.6503906e-6,0)" />
+      <g
+         id="g3019"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-211.7961,300.72349)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect3759"
+           width="249.94284"
+           height="71.428574"
+           x="240.00002"
+           y="495.21933" />
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-311.42859"
+           x="401.50507"
+           height="71.428574"
+           width="165.14287"
+           id="rect3001"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
     </g>
   </g>
 </svg>

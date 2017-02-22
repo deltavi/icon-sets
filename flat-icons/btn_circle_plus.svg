@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="btn_circle_minus.svg">
+   sodipodi:docname="btn_circle_plus.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="175.77755"
+     inkscape:cx="45.77755"
      inkscape:cy="325.71429"
      inkscape:document-units="px"
      inkscape:current-layer="g3761"
@@ -62,14 +62,15 @@
        id="g3761"
        transform="matrix(1.25,0,0,1.25,-235.7143,279.76658)">
       <path
-         d="m 588.57144,418.07648 c 0,110.45695 -89.54305,200 -200,200 -110.45695,0 -200,-89.54305 -200,-200 0,-110.45695 89.54305,-200 200,-200 110.45695,0 200,89.54305 200,200 z"
+         d="m 588.57144,418.07648 a 200,200 0 1 1 -400,0 200,200 0 1 1 400,0 z"
          sodipodi:ry="200"
          sodipodi:rx="200"
          sodipodi:cy="418.07648"
          sodipodi:cx="388.57144"
          id="path2985"
-         style="fill:#0000ff;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
+         style="fill:#00c200;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-1.6503906e-6,0)" />
       <rect
          y="382.36218"
          x="240.00002"
@@ -77,6 +78,14 @@
          width="297.14285"
          id="rect3759"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3001"
+         width="297.14285"
+         height="71.428574"
+         x="269.50507"
+         y="-424.28574"
+         transform="matrix(0,1,-1,0,0,0)" />
     </g>
   </g>
 </svg>
