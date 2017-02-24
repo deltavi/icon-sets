@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="btn_circle_undo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="324.00592"
+     inkscape:cy="185.38225"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3761"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vincenzo De Vivo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>http://www.vincenzodevivo.com</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <g
+       id="g3761"
+       transform="matrix(1.25,0,0,1.25,-235.7143,279.76658)">
+      <path
+         d="m 588.57144,418.07648 a 200,200 0 1 1 -400,0 200,200 0 1 1 400,0 z"
+         sodipodi:ry="200"
+         sodipodi:rx="200"
+         sodipodi:cy="418.07648"
+         sodipodi:cx="388.57144"
+         id="path2985"
+         style="fill:#0000ff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-1.6503906e-6,2.9492187e-6)" />
+      <g
+         id="g3010"
+         transform="matrix(0.82441342,0,0,0.82441342,76.375596,73.408619)">
+        <path
+           id="path3002"
+           transform="matrix(0.8,0,0,0.8,188.57144,218.07648)"
+           d="m 250,76.0625 c -82.8383,0 -152.137772,57.8978 -169.65625,135.4375 l 55.375,0 C 151.78635,163.7993 196.88161,129.4375 250,129.4375 c 66.58439,0 120.5625,53.97811 120.5625,120.5625 0,66.36593 -53.62321,120.20991 -119.90625,120.5625 l 0,53.375 C 346.42332,423.58382 423.9375,345.85012 423.9375,250 423.9375,153.93102 346.06898,76.0625 250,76.0625 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect2997"
+           d="M 238.43079,457.5219 355.04497,387.64703 229.65547,321.85924 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -63,3 +63,11 @@
 ![btn_magic_hat_js.48x48.png](png/48x48/btn_magic_hat_js.48x48.png)
 ![btn_magic_hat_js.64x64.png](png/64x64/btn_magic_hat_js.64x64.png)
 ![btn_magic_hat_js.128x128.png](png/128x128/btn_magic_hat_js.128x128.png)
+
+![btn_circle_undo.16x16.png](png/16x16/btn_circle_undo.16x16.png)
+![btn_circle_undo.20x20.png](png/20x20/btn_circle_undo.20x20.png)
+![btn_circle_undo.24x24.png](png/24x24/btn_circle_undo.24x24.png)
+![btn_circle_undo.32x32.png](png/32x32/btn_circle_undo.32x32.png)
+![btn_circle_undo.48x48.png](png/48x48/btn_circle_undo.48x48.png)
+![btn_circle_undo.64x64.png](png/64x64/btn_circle_undo.64x64.png)
+![btn_circle_undo.128x128.png](png/128x128/btn_circle_undo.128x128.png)
