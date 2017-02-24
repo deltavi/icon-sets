@@ -1,5 +1,4 @@
 var imports = new JavaImporter(java.nio.file, java.io, java.util);
-
 with (imports) {
     function writeReport(filename, text) {
         try {
