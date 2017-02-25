@@ -47,7 +47,7 @@ with (imports) {
             var fileNameWithoutSize = file2.getName().replace("." + file.name, "");
             outMap.get(fileNameWithoutSize).add(file2);
             if (sortedSizes[i] == "48") {
-                var currentPath = Paths.get(homeDir.getPath()).getParent().relativize(Paths.get(file2.getPath())).toString();
+                var currentPath = Paths.get(homeDir.getPath()).getParent().getParent().relativize(Paths.get(file2.getPath())).toString();
                 currentPath = currentPath.replaceAll("\\\\", "/");
                 writeReport("48x48_Report.md", "![" + file2.getName() + "](" + currentPath + ")");
             }
