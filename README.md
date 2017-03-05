@@ -11,3 +11,4 @@
 ![btn_edit.48x48.png](flat-icons/png/48x48/btn_edit.48x48.png)
 ![btn_magic_hat_js.48x48.png](flat-icons/png/48x48/btn_magic_hat_js.48x48.png)
 ![square_svg_file.48x48.png](flat-icons/png/48x48/square_svg_file.48x48.png)
+![btn_lab.48x48.png](flat-icons/png/48x48/btn_lab.48x48.png)
