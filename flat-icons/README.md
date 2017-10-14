@@ -1,5 +1,3 @@
-# Flat Icons
-
 ![btn_circle_plus.16x16.png](png/16x16/btn_circle_plus.16x16.png)
 ![btn_circle_plus.20x20.png](png/20x20/btn_circle_plus.20x20.png)
 ![btn_circle_plus.24x24.png](png/24x24/btn_circle_plus.24x24.png)
@@ -23,6 +21,22 @@
 ![btn_circle_recycle_bin.48x48.png](png/48x48/btn_circle_recycle_bin.48x48.png)
 ![btn_circle_recycle_bin.64x64.png](png/64x64/btn_circle_recycle_bin.64x64.png)
 ![btn_circle_recycle_bin.128x128.png](png/128x128/btn_circle_recycle_bin.128x128.png)
+
+![btn_circle_minus.16x16.png](png/16x16/btn_circle_minus.16x16.png)
+![btn_circle_minus.20x20.png](png/20x20/btn_circle_minus.20x20.png)
+![btn_circle_minus.24x24.png](png/24x24/btn_circle_minus.24x24.png)
+![btn_circle_minus.32x32.png](png/32x32/btn_circle_minus.32x32.png)
+![btn_circle_minus.48x48.png](png/48x48/btn_circle_minus.48x48.png)
+![btn_circle_minus.64x64.png](png/64x64/btn_circle_minus.64x64.png)
+![btn_circle_minus.128x128.png](png/128x128/btn_circle_minus.128x128.png)
+
+![btn_circle_text.16x16.png](png/16x16/btn_circle_text.16x16.png)
+![btn_circle_text.20x20.png](png/20x20/btn_circle_text.20x20.png)
+![btn_circle_text.24x24.png](png/24x24/btn_circle_text.24x24.png)
+![btn_circle_text.32x32.png](png/32x32/btn_circle_text.32x32.png)
+![btn_circle_text.48x48.png](png/48x48/btn_circle_text.48x48.png)
+![btn_circle_text.64x64.png](png/64x64/btn_circle_text.64x64.png)
+![btn_circle_text.128x128.png](png/128x128/btn_circle_text.128x128.png)
 
 ![btn_circle_undo.16x16.png](png/16x16/btn_circle_undo.16x16.png)
 ![btn_circle_undo.20x20.png](png/20x20/btn_circle_undo.20x20.png)
@@ -48,6 +62,14 @@
 ![btn_circle_ok.64x64.png](png/64x64/btn_circle_ok.64x64.png)
 ![btn_circle_ok.128x128.png](png/128x128/btn_circle_ok.128x128.png)
 
+![btn_lab.16x16.png](png/16x16/btn_lab.16x16.png)
+![btn_lab.20x20.png](png/20x20/btn_lab.20x20.png)
+![btn_lab.24x24.png](png/24x24/btn_lab.24x24.png)
+![btn_lab.32x32.png](png/32x32/btn_lab.32x32.png)
+![btn_lab.48x48.png](png/48x48/btn_lab.48x48.png)
+![btn_lab.64x64.png](png/64x64/btn_lab.64x64.png)
+![btn_lab.128x128.png](png/128x128/btn_lab.128x128.png)
+
 ![square_svg_file.16x16.png](png/16x16/square_svg_file.16x16.png)
 ![square_svg_file.20x20.png](png/20x20/square_svg_file.20x20.png)
 ![square_svg_file.24x24.png](png/24x24/square_svg_file.24x24.png)
@@ -64,14 +86,6 @@
 ![btn_edit.64x64.png](png/64x64/btn_edit.64x64.png)
 ![btn_edit.128x128.png](png/128x128/btn_edit.128x128.png)
 
-![btn_circle_minus.16x16.png](png/16x16/btn_circle_minus.16x16.png)
-![btn_circle_minus.20x20.png](png/20x20/btn_circle_minus.20x20.png)
-![btn_circle_minus.24x24.png](png/24x24/btn_circle_minus.24x24.png)
-![btn_circle_minus.32x32.png](png/32x32/btn_circle_minus.32x32.png)
-![btn_circle_minus.48x48.png](png/48x48/btn_circle_minus.48x48.png)
-![btn_circle_minus.64x64.png](png/64x64/btn_circle_minus.64x64.png)
-![btn_circle_minus.128x128.png](png/128x128/btn_circle_minus.128x128.png)
-
 ![btn_magic_hat_js.16x16.png](png/16x16/btn_magic_hat_js.16x16.png)
 ![btn_magic_hat_js.20x20.png](png/20x20/btn_magic_hat_js.20x20.png)
 ![btn_magic_hat_js.24x24.png](png/24x24/btn_magic_hat_js.24x24.png)
@@ -79,11 +93,3 @@
 ![btn_magic_hat_js.48x48.png](png/48x48/btn_magic_hat_js.48x48.png)
 ![btn_magic_hat_js.64x64.png](png/64x64/btn_magic_hat_js.64x64.png)
 ![btn_magic_hat_js.128x128.png](png/128x128/btn_magic_hat_js.128x128.png)
-
-![btn_lab.16x16.png](png/16x16/btn_lab.16x16.png)
-![btn_lab.20x20.png](png/20x20/btn_lab.20x20.png)
-![btn_lab.24x24.png](png/24x24/btn_lab.24x24.png)
-![btn_lab.32x32.png](png/32x32/btn_lab.32x32.png)
-![btn_lab.48x48.png](png/48x48/btn_lab.48x48.png)
-![btn_lab.64x64.png](png/64x64/btn_lab.64x64.png)
-![btn_lab.128x128.png](png/128x128/btn_lab.128x128.png)
